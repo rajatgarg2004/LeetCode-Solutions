@@ -1,3 +1,12 @@
+/*Runtime
+198 ms
+Beats
+45.90%
+Memory
+10.2 MB
+Beats
+75.21%*/
+
 vector<int> twoSum(vector<int>& arr, int target) {
         vector <int> v;
         v.push_back(-1);
