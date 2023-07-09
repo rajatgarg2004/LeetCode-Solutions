@@ -7,6 +7,15 @@ Memory
 Beats
 20.79%*/
 
+
+//Constraints
+/*
+The number of nodes in both lists is in the range [0, 50].
+-100 <= Node.val <= 100
+Both list1 and list2 are sorted in non-decreasing order.
+*/
+
+
 ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
         if(list1 == NULL)
         {
